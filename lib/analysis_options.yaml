@@ -1,0 +1,7 @@
+include: package:y_analysis/analysis_options.1.1.2.yaml
+
+# https://dart.dev/tools/diagnostic-messages default lints
+# https://dart-lang.github.io/linter/lints/ lints for dart
+linter:
+  rules:
+    public_member_api_docs: false
